@@ -1,3 +1,4 @@
+Install Font without Admin Rights,VBA,Interface and formatting|Files|Developer,txt,https://raw.githubusercontent.com/ExcelTitan/vbaCodes/master/Install%20Font%20without%20Admin%20Rights,43320.4111111111
 Calculate a Running Total of a Column of Cells - Cumulative Total,Formulas,Mathematical|Accounting,xlsx,https://github.com/ExcelTitan/Excel_Formulas/raw/master/Calculate%20a%20Running%20Total%20of%20a%20Column%20of%20Cells%20-%20Cumulative%20Total.xlsx,43223.6458333333
 Test if a File or Folder Exists with the Dir Function,VBA,Function|Files,txt,https://raw.githubusercontent.com/ExcelTitan/vbaCodes/master/Test%20if%20a%20File%20or%20Folder%20Exists%20with%20the%20Dir%20Function.txt,43194.9256944444
 Backup and Copy Active Sheet,VBA,Copy data|Developer,txt,https://raw.githubusercontent.com/ExcelTitan/vbaCodes/master/Backup%20and%20Copy%20Active%20Sheet.txt,43194.6208333333
